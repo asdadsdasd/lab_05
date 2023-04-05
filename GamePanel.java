@@ -28,7 +28,7 @@ import xzero.model.events.PlayerActionListener;
 public class GamePanel extends JFrame {
     
     private JPanel fieldPanel = new JPanel();
-    
+    //first - 4
     private JPanel infoPanel = new JPanel();
     private JButton labelInfo = new JButton();
     private JLabel playerInfo = new JLabel();
