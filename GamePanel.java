@@ -61,14 +61,14 @@ public class GamePanel extends JFrame {
         // Информационная панель
         mainBox.add(Box.createVerticalStrut(10));
         mainBox.add(createInfoPanel());
-
+		
         // Игровое поле
         mainBox.add(Box.createVerticalStrut(10));
         fieldPanel.setDoubleBuffered(true);
         createField();
         setEnabledField(false);
         mainBox.add(fieldPanel);
-        
+        //third - 1
         setContentPane(mainBox);
         pack();
         setResizable(false);
