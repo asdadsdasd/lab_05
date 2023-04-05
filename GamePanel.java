@@ -45,7 +45,7 @@ public class GamePanel extends JFrame {
         super();
 
         this.setTitle("Крестики-нолики NEXT");
-        
+        //second - 3
         // Представление должно реагировать на изменение состояния модели
         _model.addGameListener(new GameObserver());
         _model.addPlayerActionListener(new PlayerObserver());
