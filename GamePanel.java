@@ -1,5 +1,5 @@
 package xzero.view;
-
+//first - 1
 
 import java.awt.Component;
 import java.awt.Dimension;
