@@ -16,7 +16,7 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
+//first - 2
 import xzero.model.AbstractLabel;
 import xzero.model.GameModel;
 import xzero.model.Player;
