@@ -86,7 +86,7 @@ public class GamePanel extends JFrame {
         playerInfo.setText("?");
         box.add(Box.createHorizontalStrut(10));
         box.add(playerInfo);
-        
+        //third - 3
         box.add(Box.createHorizontalStrut(20));
 
         box.add(new JLabel("Метка :"));
