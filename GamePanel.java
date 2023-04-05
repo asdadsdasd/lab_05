@@ -40,7 +40,7 @@ public class GamePanel extends JFrame {
     private final int TITLE_HEIGHT = 40;
     
     private GameModel _model = new GameModel();
-
+	//second - 2
     public GamePanel() {
         super();
 
