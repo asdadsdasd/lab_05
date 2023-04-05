@@ -77,7 +77,7 @@ public class GamePanel extends JFrame {
 // ---------------------- Создаем информационную панель -----------------------
     
     private Box createInfoPanel() {
-        
+        //third - 2
         Box box = Box.createHorizontalBox();
         
         box.add(Box.createHorizontalStrut(10));
