@@ -53,7 +53,7 @@ public class GamePanel extends JFrame {
         // Меню
         createMenu();
         setJMenuBar(menu);
-
+		//second - 4
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Box mainBox = Box.createVerticalBox();
