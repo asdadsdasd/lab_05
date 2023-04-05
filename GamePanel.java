@@ -97,7 +97,7 @@ public class GamePanel extends JFrame {
         labelInfo.setMinimumSize(new Dimension(CELL_SIZE, CELL_SIZE));
         labelInfo.setMaximumSize(new Dimension(CELL_SIZE, CELL_SIZE));
         box.add(labelInfo);
-
+		//third - 4
         box.add(Box.createHorizontalStrut(10));
         
         return box;
