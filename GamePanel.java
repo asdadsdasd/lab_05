@@ -35,7 +35,7 @@ public class GamePanel extends JFrame {
 
     private JMenuBar menu = null;
     private final String fileItems[] = new String []{"New", "Exit"};
-    
+    //second - 1
     private final int CELL_SIZE = 50;
     private final int TITLE_HEIGHT = 40;
     
